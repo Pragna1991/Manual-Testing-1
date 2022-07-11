@@ -1,0 +1,9 @@
+Super Admin should be able to create a New Shift-Type with Active Status
+Super Admin should be able to create a New Shift Type with Inactive Status
+Shift Type Name should accept Special characters
+Super Admin should be able to Edit an existing Name
+Super Admin should be able to Edit an existing Status
+Super Admin  should not be able  to add duplicate Shift Type record
+Super Admin get mandatory field validation message when Name field is empty and click on save 
+Super Admin get mandatory  field validation message when Status not selected and click on save
+After entering all details of the New Shift Types Super Admin can click the Cancel button and the record should not be saved
